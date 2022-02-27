@@ -1,0 +1,19 @@
+.main-paragraph {
+    background-color: lightpink;
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
+
+#Number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.second-paragraph {
+    font-size: 24px;
+}
+
+#Number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
